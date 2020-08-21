@@ -1,0 +1,18 @@
+h1{color:aqua;}
+
+*{border : solid}
+
+.header{background-color: blue;}
+
+.text{background-color: green;}
+
+.game{background-color: peachpuff;
+display : flex;
+justify-content: space-between;
+}
+
+body {
+    background-color: #808080;
+    padding: 15%;
+    font-family: Arial, Helvetica, sans-serif;
+}
